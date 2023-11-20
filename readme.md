@@ -42,7 +42,3 @@
 </div>
 
 ---
-
-### 👀 Visitor Info
-<a href="https://u8views.com/github/karthiksharma03"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
-
