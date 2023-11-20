@@ -1,8 +1,6 @@
 
 <div id="header" align="center">
-  
-  <!-- <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/> -->
-  <img src=https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif width="200"/>
+    <img src=https://media.giphy.com/media/2NRGRnqRPG69jcxppo/giphy.gif width="200"/>
 </div>
 
 <h2 align="center">Hi 👋, I'm Karthik Sharma</h2>
