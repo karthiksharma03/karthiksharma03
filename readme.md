@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  Algorithms and  logical building  <br>👯 I’m looking to collaborate on Data Science and Machine Learning <br>🤝 I’m looking for help with Code Review and Feature implementation<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about The Data  <br>⚡ Honey never spoils. Archaeologists found edible honey in ancient Egyptian tombs over 3,000 years old!<br><br><br><br><br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Karthik%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
