@@ -34,13 +34,6 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
 </p>
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
@@ -64,3 +57,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthiksharma03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karthiksharma03&theme=react-dark" alt="Daily Contributions Graph"/>
+</p>
+
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
