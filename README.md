@@ -16,10 +16,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🌱 I’m currently learning **WIN32 and System Programming**
-- 🏦 I'm a Backend Engineering Lead working for a Health Tech startup in India
-- 📝 I regularly write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
+- 🏦 I'm a Programmer Who is Developing the Skills
 - 💻 I use daily: **.py**, **.c++**, **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
+- 📖 I am currently reading **JUJUSTU KAISEN** by Gege Akutami
 - 💬 Talk to me about cricket, C++, Marvel, & startups
 - 👯 We can connect to play some Carroms
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under 3 minutes!**
