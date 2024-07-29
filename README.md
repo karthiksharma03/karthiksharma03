@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY1ZjRjYmZkNzRmMGZhZjk4ZDEwOTRkYzY4YzdmZTMwYjQ1ODkxMSZjdD1n/T3Vq73Mmp2o5NjjDks/giphy.gif" alt="programmer" width="500" height="auto"/>
+  <img src="https://media.giphy.com/media/xT0xezQ2D5ne7ZC2os/giphy.gif" alt="programmer" width="500" height="auto"/>
 </p>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🌱 I’m currently learning **WIN32 and System Programming**
@@ -60,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
   <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="55" height="55"/>
+
 </p>
 
 ---
