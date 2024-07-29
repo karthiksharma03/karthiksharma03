@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MdP7Pkbtu8Enfhnk1e/giphy.gif" alt="programming" width="500" height="auto"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY1ZjRjYmZkNzRmMGZhZjk4ZDEwOTRkYzY4YzdmZTMwYjQ1ODkxMSZjdD1n/T3Vq73Mmp2o5NjjDks/giphy.gif" alt="programmer" width="500" height="auto"/>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
@@ -24,19 +24,18 @@
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under 3 minutes!**
 
 ---
-
-### 🔥 My Stats
-
+### My Streaks 🏴‍☠️🏴‍☠️:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Contributions.gif" width="30" /> My Contributions:
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=karthiksharma03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiksharma03&theme=dark" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiksharma03&theme=dark" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthiksharma03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" alt="Karthik's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksharma03&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksharma03&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -48,7 +47,6 @@
 </p>
 
 ---
-
 ### 🧑‍💻 Skills I Have:
 
 <p align="center">
@@ -58,10 +56,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="55" height="55"/>
 </p>
 
 ---
-
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
@@ -70,6 +71,5 @@
 </a>
 
 ---
-
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
