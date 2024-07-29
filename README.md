@@ -5,13 +5,7 @@
   </a>&nbsp;
   <a href="https://linkedin.com/in/karthiksharma03" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthiksharma03" height="30" width="30" />
-  </a>&nbsp;
-  <a href="http://discord.com/users/karthik#4040" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="karthik#4040" height="40" width="30" />
-  </a>&nbsp;
-  <a href="https://www.buymeacoffee.com/karthiksharma">
-    <img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
-  </a>
+ 
 </p>
 
 <p align="center">
@@ -33,9 +27,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/SQL_Logo.png" alt="sql" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="55" height="55"/>
+
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_Logo_2012.svg" alt="win32" width="55" height="55"/>
+
 </p>
 
 
