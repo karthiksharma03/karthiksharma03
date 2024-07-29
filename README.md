@@ -42,9 +42,7 @@
   <img src="https://komarev.com/ghpvc/?username=karthiksharma03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karthiksharma03&theme=react-dark" alt="Daily Contributions Graph"/>
-</p>
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
