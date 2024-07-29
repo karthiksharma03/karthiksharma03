@@ -33,37 +33,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/SQL_Logo.png" alt="sql" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/win32/win32-icon.svg" alt="win32" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_Logo_2012.svg" alt="win32" width="55" height="55"/>
 </p>
 
 
----
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My GitHub Stats:
-<p align="center">
-  ![Karthik's github stats](https://github-readme-stats.vercel.app/api?username=karthiksharma03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksharma03&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthiksharma03&theme=dark)](https://git.io/streak-stats)
-</p>
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 57.39 % as on ⏰ 28-Jul-2024
-
----
-
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://apoorvtyagi.tech/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
